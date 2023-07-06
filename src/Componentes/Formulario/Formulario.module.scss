@@ -1,0 +1,14 @@
+.form{
+    margin-inline: 5vw;
+    margin-top: 1em;
+    display: flex;
+
+    .produto{
+        height: 2em;
+    }
+    .quantidade{
+        width: 2em;
+        text-align: center;
+    }
+}
+
